@@ -23,11 +23,11 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  NAME       : RAJUPETA SHAKTHI PRASAD                     │
-│  ROLE       : VLSI DESIGN & VERIFICATION TRAINEE           │
-│  CURRENT    : MAVEN SILICON                                │
-│  LOCATION   : BENGALURU, INDIA                             │
-│  TARGET     : DESIGN VERIFICATION / ASIC / SOC             │
+│  NAME       : RAJUPETA SHAKTHI PRASAD                       │
+│  ROLE       : VLSI DESIGN & VERIFICATION TRAINEE            │
+│  CURRENT    : MAVEN SILICON                                 │
+│  LOCATION   : BENGALURU, INDIA                              │
+│  TARGET     : DESIGN VERIFICATION / ASIC / SOC              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
