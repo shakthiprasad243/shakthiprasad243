@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 220" role="img" aria-label="Build break debug verify">
+  <rect width="1400" height="220" rx="22" fill="#0b1014"/>
+  <path d="M0 55H1400M0 165H1400" stroke="#26313a"/>
+  <g stroke="#00d4b8" stroke-width="2" fill="none" opacity=".7">
+    <path d="M55 55H260V85H420"/><path d="M980 135H1140V165H1345"/>
+  </g>
+  <text x="700" y="94" text-anchor="middle" fill="#f1f5f7" font-family="monospace" font-size="27" font-weight="700">BUILD → BREAK → DEBUG → VERIFY</text>
+  <text x="700" y="128" text-anchor="middle" fill="#7f919b" font-family="monospace" font-size="14">DESIGN VERIFICATION · ASIC / SOC · RTL · SYSTEMVERILOG</text>
+</svg>
