@@ -1,24 +1,34 @@
-# Hi there, I'm Shakthi Prasad 👋
+<!-- ========================= HEADER ========================= -->
 
-**Advanced VLSI Design & Verification Trainee @ Maven Silicon**
-🔍 Driven by curiosity, understanding complex systems, and chasing bugs down to their root cause.
+<div align="center">
 
----
+# `RAJUPETA SHAKTHI PRASAD`
 
-### 🛠️ Technical Focus & Stack
-- **Verification:** SystemVerilog, UVM, Constrained-Random Testing, Functional Coverage, SVA (Assertions)
-- **RTL Design & Languages:** Verilog HDL, SystemVerilog, C/C++
-- **Protocols & Interfaces:** APB, AHB, SPI, I²C
-- **Automation & Scripting:** TCL, Python, Linux CLI
-- **Domains:** ASIC & FPGA Design Flows, V2V Communication Architecture
+### `Design Verification Engineer in the Making`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=00C7B7&center=true&vCenter=true&width=700&lines=RTL+%7C+SystemVerilog+%7C+UVM;ASIC+%2F+SoC+Verification;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Verify;Curiosity+drives+the+bug+hunt." />
 
-### 🔬 Featured Highlights & Research
-- 📜 **Publication:** *Performance Characterization of LoRa-Enabled Vehicle-to-Vehicle Safety Communication in Dynamic Road Environments*
-- 🚀 **Current Focus:** Building class-based testbenches & coverage-driven verification architectures at Maven Silicon.
-- 🌐 **Past Research:** AI Web Application Developer for the NetZero Kuppam project at IIT Kanpur (CESE).
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakthiprasad243)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakthiprasad243@gmail.com)
+
+</div>
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shakthiprasad243) | **Email:** shakthiprasad243@gmail.com
+## `whoami`
+
+```text
+> initializing engineer.profile...
+
+Name        : Shakthi Prasad
+Focus       : Design Verification / ASIC / SoC
+Currently   : Advanced VLSI Design & Verification Trainee @ Maven Silicon
+Location    : Bengaluru, India
+
+Mindset     : If it works, understand why.
+              If it fails, find why.
+              If it is untested, don't trust it.
+
+Status      : LEARNING → BUILDING → BREAKING → DEBUGGING → IMPROVING
