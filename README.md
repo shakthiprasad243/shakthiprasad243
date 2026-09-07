@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Shakthi Prasad 👋
 
-<!--
-**shakthiprasad243/shakthiprasad243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Advanced VLSI Design & Verification Trainee @ Maven Silicon**
+🔍 Driven by curiosity, understanding complex systems, and chasing bugs down to their root cause.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Focus & Stack
+- **Verification:** SystemVerilog, UVM, Constrained-Random Testing, Functional Coverage, SVA (Assertions)
+- **RTL Design & Languages:** Verilog HDL, SystemVerilog, C/C++
+- **Protocols & Interfaces:** APB, AHB, SPI, I²C
+- **Automation & Scripting:** TCL, Python, Linux CLI
+- **Domains:** ASIC & FPGA Design Flows, V2V Communication Architecture
+
+---
+
+### 🔬 Featured Highlights & Research
+- 📜 **Publication:** *Performance Characterization of LoRa-Enabled Vehicle-to-Vehicle Safety Communication in Dynamic Road Environments*
+- 🚀 **Current Focus:** Building class-based testbenches & coverage-driven verification architectures at Maven Silicon.
+- 🌐 **Past Research:** AI Web Application Developer for the NetZero Kuppam project at IIT Kanpur (CESE).
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shakthiprasad243) | **Email:** shakthiprasad243@gmail.com
