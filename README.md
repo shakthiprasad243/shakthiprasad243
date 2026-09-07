@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" />
+<img src="./assets/hero.gif" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=00D4B8&center=true&vCenter=true&width=850&height=45&lines=Design+Verification;RTL+%7C+SystemVerilog+%7C+UVM;ASIC+%2F+SoC+Verification;BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+VERIFY" alt="Typing animation"/>
 
 <br>
 
@@ -19,14 +23,11 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
 │  NAME       : RAJUPETA SHAKTHI PRASAD                     │
 │  ROLE       : VLSI DESIGN & VERIFICATION TRAINEE           │
 │  CURRENT    : MAVEN SILICON                                │
 │  LOCATION   : BENGALURU, INDIA                             │
-│                                                             │
 │  TARGET     : DESIGN VERIFICATION / ASIC / SOC             │
-│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -41,7 +42,7 @@ Currently building hands-on skills in **RTL design, SystemVerilog, UVM, constrai
 ## `02 // VERIFICATION FLOW`
 
 <p align="center">
-<img src="./assets/verification-flow.svg" width="92%" />
+<img src="./assets/verification-flow.gif" width="92%" />
 </p>
 
 > **The goal isn't to prove that the design works once.  
@@ -73,7 +74,7 @@ Currently building hands-on skills in **RTL design, SystemVerilog, UVM, constrai
 ## `04 // PROTOCOL LAB`
 
 <p align="center">
-<img src="./assets/protocol-lab.svg" width="92%" />
+<img src="./assets/protocol-lab.gif" width="92%" />
 </p>
 
 ---
@@ -102,25 +103,11 @@ Protocol Verification
 Debug
 ```
 
-Hands-on areas include synthesizable Verilog RTL, SystemVerilog verification, constrained-random environments and scalable UVM testbench development.
-
 ### IIT Kanpur
 **AI Web Application Developer / Research Intern**  
 `January 2026 → March 2026`
 
-Worked on the **NetZero Kuppam** project.
-
-```text
-Android Application
-        ↓
-Water Data Collection
-        ↓
-Interactive Dashboards
-        ↓
-Climate Data Analysis
-        ↓
-Research Findings
-```
+Worked on the **NetZero Kuppam** project involving Android data collection, interactive dashboards and climate-data analysis.
 
 ---
 
@@ -128,11 +115,9 @@ Research Findings
 
 > I use projects to turn concepts into things that can actually be tested.
 
-### RTL
-`FSM` · `Sequential Logic` · `Combinational Logic` · `Memory` · `Control Logic`
+**RTL:** `FSM` · `Sequential Logic` · `Combinational Logic` · `Memory` · `Control Logic`
 
-### Verification
-`Testbenches` · `Assertions` · `Coverage` · `Scoreboards` · `Monitors` · `Constrained Random`
+**Verification:** `Testbenches` · `Assertions` · `Coverage` · `Scoreboards` · `Monitors` · `Constrained Random`
 
 ---
 
@@ -142,13 +127,9 @@ Research Findings
 
 **Performance Characterization of LoRa-Enabled Vehicle-to-Vehicle Safety Communication in Dynamic Road Environments**
 
-Research work focused on characterizing LoRa-based V2V safety communication under dynamic road conditions.
-
 ---
 
 ## `08 // BEYOND THE CHIP`
-
-Before focusing on ASIC/SoC verification, my work also crossed into application development and research.
 
 ```text
 ANDROID
@@ -199,6 +180,6 @@ Same engineering loop.
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" />
+<img src="./assets/footer.gif" width="100%" />
 
 </div>
